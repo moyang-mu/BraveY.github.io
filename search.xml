@@ -1254,9 +1254,9 @@ precision&=\dfrac{true\_pos}{true\_pos+true\_neg} /* 预测的精度*/\\
         <category>数据挖掘</category>
       </categories>
       <tags>
-        <tag>分类</tag>
         <tag>课程</tag>
         <tag>国科大</tag>
+        <tag>分类</tag>
         <tag>贝叶斯</tag>
         <tag>神经网络</tag>
         <tag>决策树</tag>
@@ -1493,10 +1493,10 @@ e_{11}=\dfrac{count(男)\times count(小说)}{n}=\dfrac{300\times450}{1500}=90</
         <category>数据挖掘</category>
       </categories>
       <tags>
-        <tag>课程</tag>
-        <tag>国科大</tag>
         <tag>数据仓库</tag>
         <tag>OLAPS</tag>
+        <tag>课程</tag>
+        <tag>国科大</tag>
       </tags>
   </entry>
   <entry>
