@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>leetcode 10 Regular Expression Matching</title>
+    <url>/2020-02-28-leetcode-10-Regular-Expression-Matching.html</url>
+    <content><![CDATA[<h1 id="leetcode-10-Regular-Expression-Matching"><a href="#leetcode-10-Regular-Expression-Matching" class="headerlink" title="leetcode 10 Regular Expression Matching"></a>leetcode 10 Regular Expression Matching</h1><p><a href="https://leetcode.com/problems/regular-expression-matching/" target="_blank" rel="noopener">题目来源</a>，需要实现字符串正则匹配的’*’和’.’的匹配功能，判断给定字符串和模式能否匹配</p>
+<h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h2><h3 id="递归"><a href="#递归" class="headerlink" title="递归"></a>递归</h3><h3 id="动态规划"><a href="#动态规划" class="headerlink" title="动态规划"></a>动态规划</h3><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><h3 id="递归-1"><a href="#递归-1" class="headerlink" title="递归"></a>递归</h3><h3 id="动态规划-1"><a href="#动态规划-1" class="headerlink" title="动态规划"></a>动态规划</h3>]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>动态规划</tag>
+        <tag>字符串</tag>
+        <tag>递归</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>leetcode 5 Longest Palindromic Substring</title>
     <url>/2020-02-23-leetcode-5-Longest-Palindromic-Substring.html</url>
     <content><![CDATA[<h1 id="leetcode-5-Longest-Palindromic-Substring"><a href="#leetcode-5-Longest-Palindromic-Substring" class="headerlink" title="leetcode 5 Longest Palindromic Substring"></a>leetcode 5 Longest Palindromic Substring</h1><p><a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank" rel="noopener">题目来源</a>,要求出一个字符串中的最长回文子字符串。</p>
